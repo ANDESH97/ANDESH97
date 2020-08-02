@@ -1,7 +1,5 @@
-# Hi there 👋🏽, I am Ankit   
-
+# Hi there 👋🏽, I am Ankit
 ---
-
 ![MahBanner.jpg](https://www.dropbox.com/s/zbi233d2gstw4xv/MahBanner.jpg?dl=0&raw=1)
 
 - 👨🏻‍💻 I am a mobile application developer. I currently work at [Gingermind.ai](https://gingermind.ai/) and I build applications for the visually impaired community. Checkout the Eye-D app on 
