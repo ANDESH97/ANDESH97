@@ -1,6 +1,5 @@
 ### Hi there 👋🏽, I am Ankit
-
-![my_memoji.JPG](https://www.dropbox.com/s/w9onujndappxzoj/3A9BB7B2-58B2-4385-AA61-C7C33841F520.JPG?dl=0&raw=1)
+![MahBanner.jpg](https://www.dropbox.com/s/zbi233d2gstw4xv/MahBanner.jpg?dl=0&raw=1)
 
 - 👨🏻‍💻 I am a mobile application developer. I currently work at [Gingermind.ai](https://gingermind.ai/) and I build applications for the visually impaired community. Checkout the Eye-D app on 
 Google Play Store: https://play.google.com/store/apps/details?id=in.gingermind.eyedpro 
